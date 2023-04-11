@@ -1,4 +1,3 @@
-# keeneland-race-track
 # Keeneland Race Track
 The Keeneland Race Track was built in 1936 and has since become a hotspot for the equestrian industry as well as tourism in Kentucky.
 
